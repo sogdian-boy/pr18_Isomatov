@@ -15,7 +15,7 @@ import com.example.pr18_ixs.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     private lateinit var pref: SharedPreferences
     private lateinit var editor: SharedPreferences.Editor
-    private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityMainBinding //sdfaf
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
